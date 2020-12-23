@@ -1,0 +1,204 @@
+CODE;COUNTRY;GDP
+USA;United States;21.427.700
+CHN;China;14.342.903
+JPN;Japan;5.081.770
+DEU;Germany;3.845.630
+IND;India;2.875.142
+GBR;United Kingdom;2.827.113
+FRA;France;2.715.518
+ITA;Italy;2.001.244
+BRA;Brazil;1.839.758
+CAN;Canada;1.736.426
+RUS;Russian Federation;1.699.877
+KOR;Korea Rep.;1.642.383
+ESP;Spain;1.394.116
+AUS;Australia;1.392.681
+MEX;Mexico;1.258.287
+IDN;Indonesia;1.119.191
+NLD;Netherlands;909.070
+SAU;Saudi Arabia;792.967
+TUR;Turkey;754.412
+CHE;Switzerland;703.082
+POL;Poland;592.164
+THA;Thailand;543.650
+SWE;Sweden;530.833
+BEL;Belgium;529.607
+ARG;Argentina;449.663
+NGA;Nigeria;448.120
+AUT;Austria;446.315
+IRN;Iran  Islamic Rep.;445.345
+ARE;United Arab Emirates;421.142
+NOR;Norway;403.336
+ISR;Israel;395.099
+IRL;Ireland;388.699
+PHL;Philippines;376.796
+SGP;Singapore;372.063
+HKG;Hong Kong SAR  China;366.030
+MYS;Malaysia;364.702
+ZAF;South Africa;351.432
+DNK;Denmark;348.078
+COL;Colombia;323.803
+EGY;Egypt  Arab Rep.;303.175
+BGD;Bangladesh;302.571
+CHL;Chile;282.318
+PAK;Pakistan;278.222
+FIN;Finland;268.761
+VNM;Vietnam;261.921
+ROU;Romania;250.077
+CZE;Czech Republic;246.489
+PRT;Portugal;237.686
+IRQ;Iraq;234.094
+PER;Peru;226.848
+GRC;Greece;209.853
+NZL;New Zealand;206.929
+QAT;Qatar;183.466
+KAZ;Kazakhstan;180.162
+DZA;Algeria;169.988
+HUN;Hungary;160.967
+UKR;Ukraine;153.781
+KWT;Kuwait;134.761
+MAR;Morocco;118.725
+ECU;Ecuador;107.436
+SVK;Slovak Republic;105.422
+PRI;Puerto Rico;104.989
+CUB;Cuba;100.023
+ETH;Ethiopia;96.108
+KEN;Kenya;95.503
+AGO;Angola;94.635
+DOM;Dominican Republic;88.941
+LKA;Sri Lanka;84.009
+OMN;Oman;76.983
+GTM;Guatemala;76.710
+MMR;Myanmar;76.086
+LUX;Luxembourg;71.105
+BGR;Bulgaria;67.927
+GHA;Ghana;66.984
+PAN;Panama;66.801
+TZA;Tanzania;63.177
+BLR;Belarus;63.080
+CRI;Costa Rica;61.774
+HRV;Croatia;60.416
+CIV;Cote d'Ivoire;58.792
+UZB;Uzbekistan;57.921
+URY;Uruguay;56.046
+LTU;Lithuania;54.219
+MAC;Macao SAR  China;53.859
+SVN;Slovenia;53.742
+LBN;Lebanon;53.367
+LBY;Libya;52.076
+SRB;Serbia;51.409
+AZE;Azerbaijan;48.048
+COD;Congo  Dem. Rep.;47.320
+JOR;Jordan;43.744
+BOL;Bolivia;40.895
+TKM;Turkmenistan;40.761
+TUN;Tunisia;38.798
+CMR;Cameroon;38.760
+BHR;Bahrain;38.574
+PRY;Paraguay;38.145
+UGA;Uganda;34.387
+LVA;Latvia;34.117
+EST;Estonia;31.387
+NPL;Nepal;30.641
+YEM;Yemen  Rep.;27.591
+KHM;Cambodia;27.089
+SLV;El Salvador;27.023
+HND;Honduras;25.095
+PNG;Papua New Guinea;24.970
+CYP;Cyprus;24.565
+ISL;Iceland;24.188
+TTO;Trinidad and Tobago;24.100
+SEN;Senegal;23.578
+ZMB;Zambia;23.065
+ZWE;Zimbabwe;21.441
+BIH;Bosnia and Herzegovina;20.048
+AFG;Afghanistan;19.101
+SDN;Sudan;18.902
+BWA;Botswana;18.341
+LAO;Lao PDR;18.174
+GEO;Georgia;17.743
+MLI;Mali;17.510
+GAB;Gabon;16.658
+JAM;Jamaica;16.458
+BFA;Burkina Faso;15.746
+ALB;Albania;15.278
+MOZ;Mozambique;14.934
+MLT;Malta;14.786
+PSE;West Bank and Gaza;14.616
+BEN;Benin;14.391
+MUS;Mauritius;14.180
+MDG;Madagascar;14.084
+MNG;Mongolia;13.853
+ARM;Armenia;13.673
+GIN;Guinea;13.590
+BRN;Brunei Darussalam;13.469
+NER;Niger;12.928
+BHS;Bahamas  The;12.827
+MKD;North Macedonia;12.695
+NIC;Nicaragua;12.521
+NAM;Namibia;12.367
+MDA;Moldova;11.955
+TCD;Chad;11.315
+GNQ;Equatorial Guinea;11.027
+COG;Congo  Rep;10.821
+RWA;Rwanda;10.122
+HTI;Haiti;8.499
+KGZ;Kyrgyz Republic;8.455
+TJK;Tajikistan;8.117
+XKX;Kosovo;7.926
+MWI;Malawi;7.667
+MRT;Mauritania;7.594
+MCO;Monaco;7.188
+IMN;Isle of Man;6.771
+LIE;Liechtenstein;6.553
+GUM;Guam;5.920
+MDV;Maldives;5.729
+FJI;Fiji;5.536
+MNE;Montenegro;5.495
+CYM;Cayman Islands;5.485
+TGO;Togo;5.460
+BRB;Barbados;5.209
+SWZ;Eswatini;4.405
+GUY;Guyana;4.280
+SUR;Suriname;3.985
+SLE;Sierra Leone;3.941
+VIR;Virgin Islands;3.855
+DJI;Djibouti;3.319
+AND;Andorra;3.154
+CUW;Curacao;3.128
+LBR;Liberia;3.071
+ABW;Aruba;3.056
+GRL;Greenland;3.052
+BDI;Burundi;3.012
+FRO;Faroe Islands;2.833
+LSO;Lesotho;2.460
+BTN;Bhutan;2.447
+CAF;Central African Republic;2.220
+LCA;St. Lucia;2.122
+CPV;Cabo Verde;1.982
+BLZ;Belize;1.880
+GMB;Gambia  The;1.764
+ATG;Antigua and Barbuda;1.728
+SYC;Seychelles;1.699
+TLS;Timor-Leste;1.674
+SMR;San Marino;1.638
+SLB;Solomon Islands;1.425
+GNB;Guinea-Bissau;1.340
+MNP;Northern Mariana Islands;1.323
+GRD;Grenada;1.228
+COM;Comoros;1.186
+KNA;St Kitts and Nevis;1.051
+TCA;Turks and Caicos Islands;1.022
+VUT;Vanuatu;917
+WSM;Samoa;851
+VCT;St Vincent and the Grenadines;825
+ASM;American Samoa;636
+DMA;Dominica;596
+TON;Tonga;450
+STP;Sao Tome and Principe;429
+FSM;Micronesia Fed. Sts.;402
+PLW;Palau;284
+MHL;Marshall Islands;221
+KIR;Kiribati;195
+NRU;Nauru;118
+TUV;Tuvalu;47

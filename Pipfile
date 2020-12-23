@@ -1,0 +1,21 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+jupyterlab = "*"
+matplotlib = "*"
+numpy = "*"
+pandas = "*"
+seaborn = "*"
+cufflinks = "*"
+plotly = "==4.1.1"
+chart-studio = "*"
+pandas-datareader = "*"
+scikit-learn = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.9"
